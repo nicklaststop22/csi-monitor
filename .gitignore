@@ -1,0 +1,16 @@
+# build artifacts
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+
+# captured data
+csi_rec_*.csv
+*.json
+
+# session memory (local only)
+memory/
+
+# the older radar prototype
+csi_radar.py
